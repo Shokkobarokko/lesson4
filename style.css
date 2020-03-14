@@ -1,0 +1,10 @@
+.header__div_h1 {
+    text-align: center;
+    color: gray;
+}
+
+.header__div_nav {
+    display: inline-block;
+    color: red;
+    padding: 20px;
+}
